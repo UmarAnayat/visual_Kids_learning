@@ -105,11 +105,11 @@ UI that photographs well
 ### Interface
 
 <p align="center">
-  <img src="screenshots/01.png" width="240" alt="Screen 01"/>
+  <img src="screenshots/screenshots%3A01.png" width="240" alt="Screen 01"/>
   &nbsp;&nbsp;
-  <img src="screenshots/02.png" width="240" alt="Screen 02"/>
+  <img src="screenshots/screenshots%3A02.png" width="240" alt="Screen 02"/>
   &nbsp;&nbsp;
-  <img src="screenshots/03.png" width="240" alt="Screen 03"/>
+  <img src="screenshots/screenshots%3A03.png" width="240" alt="Screen 03"/>
 </p>
 
 <p align="center">
