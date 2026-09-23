@@ -1,140 +1,143 @@
 <div align="center">
 
-<br />
+<br>
 
 # Visual Kids
 
 ### Learning that feels like play — bright, short, memorable
 
-<br />
+A colorful learning world built for curiosity.  
+Explore topics, play short games, and watch progress grow — designed so parents trust it and kids actually return to it.
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Kids-F472B6?style=for-the-badge&logoColor=white" alt="Kids" />
-  <img src="https://img.shields.io/badge/Education-38BDF8?style=for-the-badge&logoColor=white" alt="Education" />
+<br>
 
-<br />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+<img src="https://img.shields.io/badge/Kids-F472B6?style=for-the-badge" alt="Kids"/>
+<img src="https://img.shields.io/badge/Education-38BDF8?style=for-the-badge" alt="Education"/>
 
-<img src="https://img.shields.io/badge/Crafted_by-Umar_Anayat-111111?style=flat-square&labelColor=C9A86C&color=111111" alt="Crafted by Umar Anayat" />
+<br><br>
+
+<img src="https://img.shields.io/badge/Crafted_by-Umar_Anayat-111111?style=flat-square&labelColor=C9A86C&color=111111" alt="Crafted by Umar Anayat"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Status-Available_for_Customization-22C55E?style=flat-square" alt="Available" />
+<img src="https://img.shields.io/badge/Status-Available_for_Customization-22C55E?style=flat-square" alt="Available for Customization"/>
 
 </div>
 
-<br />
+<br>
 
 ---
 
-<br />
+<br>
 
-## The Idea
+### The Idea
 
-> Children don't open apps for features. They open them for delight. Visual Kids starts there.
+> Children don’t open apps for features.  
+> They open them for delight. Visual Kids starts there.
 
-Visual Kids is a colorful learning world — explore topics, play short games, and watch progress grow. Designed so parents trust it and kids return to it.
+**Visual Kids** is a focused learning product for young minds.  
+It brings topic exploration, short interactive games, and visible progress into one bright, joyful experience — designed to feel fun in the moment and trustworthy for parents.
 
-<br />
+<br>
 
-## What Makes It Special
+### What It Delivers
 
 <table>
-<tr>
-<td width="50%">
+  <tr>
+    <td width="50%" valign="top">
 
-✦ **Warm entry**  
+**Warm Entry**  
 Friendly splash and home
 
 </td>
-<td width="50%">
+    <td width="50%" valign="top">
 
-✦ **Curious minds**  
+**Curious Minds**  
 Topic exploration
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
-✦ **Play loops**  
-Interactive games
-
-</td>
-<td width="50%">
-
-✦ **Proof of growth**  
-Progress tracking
+**Play Loops**  
+Interactive short games
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+    <td width="50%" valign="top">
 
-✦ **Safe space**  
+**Proof of Growth**  
+Clear progress tracking
+
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+**Safe Space**  
 Kid-focused profile
 
 </td>
-<td width="50%">
+    <td width="50%" valign="top">
 
-✦ **Story of the app**  
-About
+**Story of the App**  
+Simple about section
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
-✦ **Retention by joy**  
+**Retention by Joy**  
 Sessions that feel short and fun
 
 </td>
-<td width="50%">
+    <td width="50%" valign="top">
 
-✦ **Parent-ready polish**  
+**Parent-Ready Polish**  
 UI that photographs well
 
 </td>
-</tr>
+  </tr>
 </table>
 
+<br>
 
-<br />
-
-## Interface
-
-<p align="center"><i>Premium UI captures live in <code>screenshots/</code> — drop <code>01.png</code>, <code>02.png</code>, <code>03.png</code> and they appear below.</i></p>
+### Interface
 
 <p align="center">
-  <img src="screenshots/01.png" width="240" style="border-radius:16px" alt="01" />
+  <img src="screenshots/01.png" width="240" alt="Screen 01"/>
   &nbsp;&nbsp;
-  <img src="screenshots/02.png" width="240" style="border-radius:16px" alt="02" />
+  <img src="screenshots/02.png" width="240" alt="Screen 02"/>
   &nbsp;&nbsp;
-  <img src="screenshots/03.png" width="240" style="border-radius:16px" alt="03" />
+  <img src="screenshots/03.png" width="240" alt="Screen 03"/>
 </p>
 
+<p align="center">
+  <sub>Bright, short, and memorable — designed for kids and trusted by parents</sub>
+</p>
 
-<br />
+<br>
 
 ---
 
-<br />
+<br>
 
 <div align="center">
 
-## Work With The Developer
+### Work With The Developer
 
-**Umar Anayat** designs and ships Flutter products that feel intentional — calm motion, sharp UI, and features people actually use.
+**Umar Anayat** designs and ships Flutter products that feel intentional.  
+Calm motion. Sharp UI. Features people actually use.
 
-If you want this project customized, white-labeled, or built into your brand:
+Looking to customize, white-label, or adapt this project to your brand?
 
-<br />
+<br>
 
-[![Email](https://img.shields.io/badge/Email-iumaranayat_at_gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iumaranayat@gmail.com)
+[![Email](https://img.shields.io/badge/Email-iumaranayat@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iumaranayat@gmail.com)
 &nbsp;
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-+923087863007-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923087863007)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+92_308_7863007-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923087863007)
 
-<br />
-
-<sub>iumaranayat@gmail.com &nbsp;·&nbsp; +923087863007</sub>
-
+<br>
 </div>
 
-<br />
+<br>
